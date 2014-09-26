@@ -6,7 +6,7 @@ go-fswatch
 
 Poll a file or directory for changes in Go.
 
-Halt! Unless you explicitly need a polling fs watching solution, you should
+*Hang on!* Unless you explicitly need a polling fs watching solution, you should
 probably look at [fsnotify](https://github.com/go-fsnotify/fsnotify) ... and
 that may [eventually](https://github.com/go-fsnotify/fsnotify/issues/9) support
 polling, making this library obsolete.
