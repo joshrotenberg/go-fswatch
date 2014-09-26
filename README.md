@@ -18,7 +18,7 @@ other polling filesystem watching libraries in Go, but fsnotify has a nice API
 and fit well with my use case otherwise, so I decided to be a copycat and make
 one with the (almost) exact same API.
 
-Docs on [GoDoc]((https://godoc.org/github.com/joshrotenberg/go-fswatch).
+Docs on [GoDoc](https://godoc.org/github.com/joshrotenberg/go-fswatch).
 
 As noted above, the API is exactly the same as fsnotify, with the caveat inline below:
 ```go
